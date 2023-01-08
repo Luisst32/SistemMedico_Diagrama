@@ -1,1 +1,0 @@
-# SistemMedico_Diagrama
